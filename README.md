@@ -45,14 +45,14 @@ Ensure you have the following installed:
 - PostgreSQL
 - Git
 
-**Note**: Please run the project from https://github.com/noman1811048/scrapyAssignment.git according to the instructions in its README file, and place it in the same directory as this djangoAssignment project.
+**Note**: Please run the project from https://github.com/noman62/-web-scraper- according to the instructions in its README file, and place it in the same directory as this djangoAssignment project.
 
 ## Project Structure
 
 ```
 root_folder/
 │
-├── djangoassignment/
+├──propertiesManagement/
 │   ├── media/
 │   ├── properties/
 │   │   ├── management/
@@ -85,8 +85,8 @@ These instructions will help you set up the project on your local machine for de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/noman1811048/djangoAssignment.git
-   cd djangoAssignment
+   git clone https://github.com/noman62/propertiesManagement
+   cd propertiesManagement
    ```
 
 2. Set up a virtual environment:
